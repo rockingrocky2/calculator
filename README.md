@@ -1,7 +1,7 @@
 # calculator
 
-This Git repository created for the purpose of learning Conitinnous Integration.
-Now I am following the steps from real pyton website and URL is provided below.
+This Git repository created for the purpose of learning Continues Integration.
+Now I am following the steps from real python website and URL is provided below.
 
 URL: https://realpython.com/python-continuous-integration/
 
